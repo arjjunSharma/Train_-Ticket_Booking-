@@ -4,6 +4,8 @@
 package java.backend;
 
 import org.junit.jupiter.api.Test;
+import ticket.booking.App;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 class AppTest {
